@@ -1,4 +1,3 @@
-import {Link} from "react-router-dom"
 import Blog from "../components/Blog"
 
 const AllBlogs = ({blogs}) =>{
